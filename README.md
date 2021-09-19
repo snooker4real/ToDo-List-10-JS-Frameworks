@@ -13,7 +13,8 @@ For all none vanilla JS install node first :  sudo apt install nodejs
 ![image](https://user-images.githubusercontent.com/65620947/133935749-0db68f49-7bfa-403f-a656-2c386b8b4277.png)
 
 # In VueJS
- 
+ ### vue ui
+ ### npm run serve
 ![2021-09-19 18_11_07-](https://user-images.githubusercontent.com/65620947/133934935-6779dfe7-7491-4a21-a2ca-942109ab561a.png)
 
 # With Svlete
