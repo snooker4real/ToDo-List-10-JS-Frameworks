@@ -14,7 +14,7 @@ npm start
 ```
 ![image](https://user-images.githubusercontent.com/65620947/133935749-0db68f49-7bfa-403f-a656-2c386b8b4277.png)
 
-# With ANgular
+# With Angular
 ```
 cd my-app
 ng serve --open
