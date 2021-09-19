@@ -4,7 +4,7 @@ Un défi, faire une application Todo List qui stocke les données dans le localS
 For all none vanilla JS install node first :  sudo apt install nodejs
 
 
-# In Vue JS :
+# In VueJS
  
 ![2021-09-19 18_11_07-](https://user-images.githubusercontent.com/65620947/133934935-6779dfe7-7491-4a21-a2ca-942109ab561a.png)
 
