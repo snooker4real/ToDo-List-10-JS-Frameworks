@@ -12,6 +12,11 @@ For all none vanilla JS install node first :  sudo apt install nodejs
 ### npm start
 ![image](https://user-images.githubusercontent.com/65620947/133935749-0db68f49-7bfa-403f-a656-2c386b8b4277.png)
 
+# With ANgular
+### cd my-app
+### ng serve --open
+![image](https://user-images.githubusercontent.com/65620947/133935992-9d7c3b36-6760-4749-aca9-5082377db254.png)
+
 # In VueJS
  ### vue ui
  ### npm run serve
