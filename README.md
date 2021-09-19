@@ -20,9 +20,6 @@ For all none vanilla JS install node first :  sudo apt install nodejs
 # With Svlete
 ### npx degit sveltejs/template my-svelte-project
 ### cd my-svelte-project
-# to use TypeScript run:
-### node scripts/setupTypeScript.js
-
 ### npm install
 ### npm run dev
 ![image](https://user-images.githubusercontent.com/65620947/133935617-d58f6e8d-ae67-40d2-9bf8-e72006c115b5.png)
