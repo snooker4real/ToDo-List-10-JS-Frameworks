@@ -6,6 +6,8 @@ For all none vanilla JS install node first :  sudo apt install nodejs
 # With Vanilla JS
 ![image](https://user-images.githubusercontent.com/65620947/133935687-fd6a2b34-ee5c-4399-8331-40ade49652ec.png)
 
+# With React
+![image](https://user-images.githubusercontent.com/65620947/133935749-0db68f49-7bfa-403f-a656-2c386b8b4277.png)
 
 # In VueJS
  
