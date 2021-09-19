@@ -8,8 +8,8 @@ For all none vanilla JS install node first :  sudo apt install nodejs
 
 # With React
 ### npx create-react-app my-app
-cd my-app
-npm start
+### cd my-app
+### npm start
 ![image](https://user-images.githubusercontent.com/65620947/133935749-0db68f49-7bfa-403f-a656-2c386b8b4277.png)
 
 # In VueJS
